@@ -9,6 +9,9 @@
  Duration :10th JUNE 2024 to 10th JULY 2024
  
  Mentor :G.SRAVANI 
+
+ ![Screenshot 2024-06-25 111108](https://github.com/HarikrishnaMekala/CODTECH-Task2/assets/174264863/92c014f2-12f0-4b11-9604-907862022d1e)
+
  
 ##Overview of the Project:
 This project demonstrates the process of training and evaluating three different machine learning models using the Iris dataset. The primary objective is to compare the performance of Logistic Regression, Decision Tree, and Random Forest classifiers in predicting the species of iris flowers.
