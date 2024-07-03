@@ -1,9 +1,14 @@
- **NAME** HARIKRISHNA MEKALA
- **COMPANY**CODTECH IT SOLUTIONS
- **ID**CT08DS2080
- **Domaine**ARTIFICAL INTELLIGENCE
- **Duration**10th JUNE 2024 to 10th JULY 2024
- **Mentor**G.SRAVANI 
+ NAME :HARIKRISHNA MEKALA
+ 
+ COMPANY :CODTECH IT SOLUTIONS
+ 
+ ID :CT08DS2080
+ 
+ Domaine :ARTIFICAL INTELLIGENCE
+ 
+ Duration :10th JUNE 2024 to 10th JULY 2024
+ 
+ Mentor :G.SRAVANI 
  
 ##Overview of the Project:
 This project demonstrates the process of training and evaluating three different machine learning models using the Iris dataset. The primary objective is to compare the performance of Logistic Regression, Decision Tree, and Random Forest classifiers in predicting the species of iris flowers.
